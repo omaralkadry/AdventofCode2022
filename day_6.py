@@ -1,3 +1,5 @@
+#Day 6: Tuning Trouble
+
 f = open("day_6_input.txt")
 
 contents = f.read()
